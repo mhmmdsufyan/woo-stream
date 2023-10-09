@@ -1,0 +1,259 @@
+# Copyright (C) 2023 Woo Stream
+# This file is distributed under the same license as the Woo Stream package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Stream\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-08 18:29+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: helpers/class-helpers.php:281
+msgid "Never"
+msgstr ""
+
+#: includes/class-menu-pages.php:49
+msgid "%s notifications"
+msgstr ""
+
+#: includes/class-menu-pages.php:60
+msgid "Woo Stream"
+msgstr ""
+
+#: includes/class-menu-pages.php:61
+msgid "Woo Stream %s"
+msgstr ""
+
+#: includes/class-menu-pages.php:72, includes/class-menu-pages.php:73, includes/callbacks/class-plugin-options.php:27
+msgid "Plugin Options"
+msgstr ""
+
+#: includes/class-menu-pages.php:82
+msgid "Requests"
+msgstr ""
+
+#: includes/class-menu-pages.php:83
+msgid "Requests %s"
+msgstr ""
+
+#: includes/class-menu-pages.php:91, includes/class-menu-pages.php:92
+msgid "License"
+msgstr ""
+
+#: includes/class-my-account.php:51
+msgid "Stream Settings"
+msgstr ""
+
+#: includes/class-my-account.php:52
+msgid "Logout"
+msgstr ""
+
+#: includes/class-my-account.php:101
+msgid "General"
+msgstr ""
+
+#: includes/class-my-account.php:120
+msgid "Activate Streaming"
+msgstr ""
+
+#: includes/class-my-account.php:116, includes/ajax/activation-request.php:30
+msgid "Request Rejected"
+msgstr ""
+
+#: includes/class-my-account.php:112, includes/ajax/activation-request.php:36, includes/ajax/activation-request.php:25
+msgid "Pending Activation"
+msgstr ""
+
+#: includes/class-my-account.php:108, includes/ajax/activation-request.php:20
+msgid "Streaming Service Enabled"
+msgstr ""
+
+#: includes/class-my-account.php:133
+msgid "Facebook"
+msgstr ""
+
+#: includes/class-my-account.php:136, includes/class-user-profile.php:61
+msgid "App ID"
+msgstr ""
+
+#: includes/class-my-account.php:140, includes/class-user-profile.php:69
+msgid "App Secret"
+msgstr ""
+
+#: includes/class-my-account.php:144, includes/class-user-profile.php:77
+msgid "Access Token (Short Lived)"
+msgstr ""
+
+#: includes/class-my-account.php:146, includes/class-user-profile.php:80
+msgid "Expires: "
+msgstr ""
+
+#: includes/class-my-account.php:149, includes/class-user-profile.php:86
+msgid "User/Page ID"
+msgstr ""
+
+#: includes/class-my-account.php:153, includes/class-user-profile.php:94
+msgid "Access Token (Permanent)"
+msgstr ""
+
+#: includes/class-my-account.php:156
+msgid "Save"
+msgstr ""
+
+#: includes/class-my-account.php:157, includes/class-user-profile.php:103
+msgid "Fetch ID & Token"
+msgstr ""
+
+#: includes/class-my-account.php:158, includes/class-user-profile.php:104
+msgid "Test Connection"
+msgstr ""
+
+#: includes/class-scripts.php:44, includes/class-scripts.php:74, includes/shortcodes/class-all-streams.php:66
+msgid "Please wait, loading data..."
+msgstr ""
+
+#: includes/class-scripts.php:75
+msgid "No data to display."
+msgstr ""
+
+#: includes/class-setup.php:51
+msgid "Update available for %sWoo Stream%s, %sClick Here%s to update."
+msgstr ""
+
+#: includes/class-user-profile.php:38
+msgid "Woo Stream General Settings"
+msgstr ""
+
+#: includes/class-user-profile.php:43
+msgid "Stream Service"
+msgstr ""
+
+#: includes/class-user-profile.php:46
+msgid "Disable"
+msgstr ""
+
+#: includes/class-user-profile.php:47
+msgid "Pending"
+msgstr ""
+
+#: includes/class-user-profile.php:48
+msgid "Enable"
+msgstr ""
+
+#: includes/class-user-profile.php:49
+msgid "Block"
+msgstr ""
+
+#: includes/class-user-profile.php:55
+msgid "Facebook Stream Settings"
+msgstr ""
+
+#: includes/ajax/activation-request.php:37
+msgid "Your request for activation has been sent."
+msgstr ""
+
+#: includes/ajax/activation-request.php:31
+msgid "You are blocked from using the streaming service."
+msgstr ""
+
+#: includes/ajax/activation-request.php:26
+msgid "Your streaming service activation is pending."
+msgstr ""
+
+#: includes/ajax/activation-request.php:21
+msgid "Your streaming service is enabled."
+msgstr ""
+
+#: includes/ajax/fetch-token.php:65
+msgid "User/Page ID & Token fetched and saved successfully."
+msgstr ""
+
+#: includes/ajax/load-requests.php:45, includes/callbacks/class-activation-requests.php:29
+msgid "Username"
+msgstr ""
+
+#: includes/ajax/load-requests.php:49, includes/callbacks/class-activation-requests.php:30
+msgid "Email"
+msgstr ""
+
+#: includes/ajax/load-requests.php:53, includes/callbacks/class-activation-requests.php:31
+msgid "Full Name"
+msgstr ""
+
+#: includes/ajax/load-requests.php:57, includes/callbacks/class-activation-requests.php:32
+msgid "Request"
+msgstr ""
+
+#: includes/ajax/load-requests.php:58
+msgid "Accept"
+msgstr ""
+
+#: includes/ajax/load-requests.php:59
+msgid "Reject"
+msgstr ""
+
+#: includes/ajax/load-videos.php:33, includes/shortcodes/class-all-streams.php:44
+msgid "%sError!%s Channel not found."
+msgstr ""
+
+#: includes/ajax/process-request.php:33
+msgid "Streaming service for %s has been rejected."
+msgstr ""
+
+#: includes/ajax/process-request.php:24
+msgid "Streaming service for %s has been enabled."
+msgstr ""
+
+#: includes/ajax/save-settings.php:36
+msgid "%1$sError!%2$s Settings not saved."
+msgstr ""
+
+#: includes/ajax/save-settings.php:30
+msgid "Settings saved successfully."
+msgstr ""
+
+#: includes/ajax/test-connection.php:66
+msgid "%1$sError!%2$s Connection failed."
+msgstr ""
+
+#: includes/ajax/test-connection.php:51
+msgid "API connection successful."
+msgstr ""
+
+#: includes/ajax/test-connection.php:21
+msgid "%1$sError!%2$s Fetch %1$sPage ID%2$s and %1$sToken%2$s first."
+msgstr ""
+
+#: includes/callbacks/class-activation-requests.php:21
+msgid "Activation Requests"
+msgstr ""
+
+#: includes/callbacks/class-plugin-options.php:37
+msgid "General Options"
+msgstr ""
+
+#: includes/callbacks/class-plugin-options.php:55
+msgid "Enable for Roles"
+msgstr ""
+
+#: includes/callbacks/class-plugin-options.php:77
+msgid "Streams Page"
+msgstr ""
+
+#: includes/callbacks/class-plugin-options.php:90
+msgid "Select a Page"
+msgstr ""
+
+#: includes/callbacks/class-plugin-options.php:119
+msgid "Items Per Page"
+msgstr ""
+
+#: includes/shortcodes/class-streams-carousel.php:127
+msgid "No videos to display."
+msgstr ""
