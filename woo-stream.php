@@ -6,7 +6,7 @@
  * Version:     0.0.3
  * Update URI: https://api.freemius.com
  * Author:      Muhammad Sufyan - Digitalists
- * Author URI:  https://www.xecreators.pk
+ * Author URI:  https://sufyanmuhammad.com
  * License:     GPL2
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: woo-stream
